@@ -1,0 +1,4 @@
+Mean rating of training data is:3.6995885391638637
+Mean approx cost of training data is:555.8759763486386
+Most frequent cuisine type is:North Indian
+Most frequent restaurant type is:Quick Bites
